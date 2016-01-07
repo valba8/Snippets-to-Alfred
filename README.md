@@ -1,17 +1,15 @@
-# Snippets.alfredworkflow
+# SnippetsToAlfred.alfredworkflow
 
 [Download](https://github.com/pahen/Snippets.alfredworkflow/raw/master/Snippets.alfredworkflow)
 
-This workflow for [Alfred 2](http://www.alfredapp.com/) will search you snippets from the application [Snippets](http://www.snippetsapp.com/). It's not required to have Snippets running since it will search the data storage (XML file) directly.
+This workflow for Alfred 2 ([http://www.alfredapp.com](http://www.alfredapp.com)) will search you snippets from the application Snippets.me ([http://www.snippets.me](http://www.snippets.me/)). 
 
 ## Usage
 
-![](https://github.com/pahen/Snippets.alfredworkflow/raw/master/img/search.png)
+![](https://github.com/valba8/Snippets-to-Alfred/raw/master/img/search.png)
 
-```ENTER``` to copy to clipboard.
+```ENTER``` to copy & paste the snippet into your application.
 
-```CMD + ENTER``` to copy & paste.
+```CMD + ENTER``` to copy the snippet to clipboard.
 
-```ALT + ENTER``` to view as Large Type.
-
-You can also create a new snippet from a text selection if you open the workflow and assign a hotkey to the "Selection in OS X" trigger.
+```SHIFT``` keep pressed to show snippet description.
